@@ -1,5 +1,3 @@
- // Import the User model
-
 import 'package:jobtest/model/userModel.dart';
 
 class UserListModel {
